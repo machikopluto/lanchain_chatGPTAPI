@@ -4,7 +4,7 @@ import Footer from "./Footer";
 
 export const metadata = {
   title: "Langchain JavaScript",
-  description: "Learn  the latest AI technologies from Shawn Esquivel.",
+  description: "Learn  LangChain and ChatGPT API",
 };
 
 export default function RootLayout({ children }) {
